@@ -1,0 +1,1 @@
+var e=`/Nana-kaJobe-Catering-Baking/assets/wedding-banquet-C9k_AVY9.jpg`;export{e as t};

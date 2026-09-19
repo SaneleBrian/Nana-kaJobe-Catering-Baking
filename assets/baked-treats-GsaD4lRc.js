@@ -1,0 +1,1 @@
+var e=`/Nana-kaJobe-Catering-Baking/assets/baked-treats-D2blqsrc.jpg`;export{e as t};

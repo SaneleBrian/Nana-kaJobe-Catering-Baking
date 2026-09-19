@@ -1,0 +1,1 @@
+var e=`/Nana-kaJobe-Catering-Baking/assets/nanaka-hero-BezKvzof.jpg`;export{e as t};

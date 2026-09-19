@@ -1,0 +1,1 @@
+var e=`/Nana-kaJobe-Catering-Baking/assets/traditional-feast-DU2hSu6s.jpg`,t=`/Nana-kaJobe-Catering-Baking/assets/corporate-platters-CqHESF5f.jpg`,n=`/Nana-kaJobe-Catering-Baking/assets/celebration-cake-hCESQoui.jpg`;export{t as n,e as r,n as t};
